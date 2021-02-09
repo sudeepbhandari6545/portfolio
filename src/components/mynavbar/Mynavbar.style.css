@@ -1,0 +1,12 @@
+.menu-item {
+  font-family: 'Gill Sans', sans-serif;
+  font-weight: bold;
+  font-size: 15px;
+  margin: 5px;
+  text-transform: uppercase;
+  outline: none;
+}
+.logo {
+  width: 200px;
+  height: auto;
+}

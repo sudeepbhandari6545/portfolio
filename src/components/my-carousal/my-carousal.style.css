@@ -1,0 +1,8 @@
+* {
+  font-family: 'Gill Sans', sans-serif;
+}
+.custom-img {
+  height: 100vh;
+  object-fit: cover;
+  align-items: center;
+}

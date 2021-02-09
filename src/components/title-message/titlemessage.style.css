@@ -1,0 +1,33 @@
+.typed-text {
+  font-family: 'Gill Sans', sans-serif;
+  color: #f39c12;
+  font-size: 30px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  position: absolute;
+  width: 100%;
+  top: 18rem;
+  z-index: 1;
+  margin-top: -125px;
+  text-transform: capitalize;
+}
+.typedtext {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  position: absolute;
+  width: 100%;
+  top: 24rem;
+  z-index: 1;
+  margin-top: -100px;
+}
+.typedtext h1 {
+  color: white;
+  font-size: 35px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
